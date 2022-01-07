@@ -1,0 +1,9 @@
+# Editor swap/backup files
+*~
+*\#*
+*.swp
+
+# Output files.
+*.o
+*.class
+*.so
