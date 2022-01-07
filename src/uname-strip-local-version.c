@@ -1,6 +1,4 @@
 #include <dlfcn.h>
-#include <stdio.h>
-#include <stdlib.h>
 #include <sys/utsname.h>
 
 int uname(struct utsname *name) {
